@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=220&section=header&text=🌍%20Impacto%20Social&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RET%20Tecnologia%20•%20Open%20Source%20%26%20Comunidade&descSize=14&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <a href="https://rettecnologia.org">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%8D+Impacto+Social;RET+Tecnologia+%E2%80%A2+Open+Source+%26+Comunidade" alt="Header" />
+  </a>
 </p>
 
 <p align="center">
@@ -54,7 +56,7 @@ Na **RET Tecnologia**, acreditamos que nossas habilidades técnicas carregam uma
 
 > Nosso impacto social não é um departamento. É uma **diretriz de operação**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+---
 
 ## 🛡️ Frentes de Atuação Social
 
@@ -69,7 +71,7 @@ Seguimos o modelo de **OSPO (Open Source Program Office)** adotado por Google, M
 | 🔍 **Transparência** | Código público, auditável, sob licença MIT | Linux Foundation |
 | ♻️ **Sustentabilidade** | Manutenção ativa de dependências críticas | Spotify FOSS Fund |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+---
 
 ## 🐍 Projeto em Destaque: **Cascavel**
 
@@ -136,7 +138,7 @@ python3 cascavel.py --help
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+---
 
 ### 2. 🎓 Mentoria Técnica para Comunidades
 
@@ -233,10 +235,6 @@ Contribuições são bem-vindas! Quer adicionar uma frente de impacto, sugerir p
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer" />
-</p>
 
 <p align="center">
   <sub>
