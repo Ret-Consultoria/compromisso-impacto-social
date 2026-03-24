@@ -65,7 +65,7 @@ Na **RET Tecnologia**, acreditamos que nossas habilidades técnicas carregam uma
 Seguimos o modelo de **OSPO (Open Source Program Office)** adotado por Google, Microsoft e Red Hat: contribuições sistemáticas, não aleatórias.
 
 | Princípio | Prática | Referência |
-|-----------|---------|-----------| 
+|-----------|---------|-----------|
 | 🌐 **Acessibilidade** | Ferramentas gratuitas que nivelam o campo | Mozilla, Automattic |
 | 🤝 **Colaboração** | Contribuições em projetos da comunidade global | IBM, Shopify |
 | 🔍 **Transparência** | Código público, auditável, sob licença MIT | Linux Foundation |
